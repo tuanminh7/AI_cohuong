@@ -1,0 +1,424 @@
+{
+  "Mosaic": {
+    "description": "Bệnh Mosaic trên cây mía là bệnh virus gây ra bởi virus Sugarcane Mosaic Virus (SCMV). Bệnh làm giảm năng suất đáng kể.",
+    "symptoms": [
+      "Lá xuất hiện các đốm vàng và xanh lục xen kẽ",
+      "Các vân rõ ràng trên lá tạo thành hoa văn giống như mosaic",
+      "Lá bị héo và co rút",
+      "Cây bị giảm chiều cao",
+      "Năng suất giảm 20-30%"
+    ],
+    "treatment": [
+      "Sử dụng giống cây có khả năng chống bệnh",
+      "Xóa bỏ các cây bị bệnh để tránh lây lan",
+      "Kiểm soát côn trùng mang virus (bọ nai, sâu tơ lơ)",
+      "Không sử dụng nước từ vùng bị bệnh để tưới"
+    ],
+    "prevention": [
+      "Chọn hạt giống sạch không mang virus",
+      "Áp dụng rotation crops (luân canh)",
+      "Kiểm soát côn trùng bằng thuốc insecticide",
+      "Vệ sinh dụng cụ nông nghiệp",
+      "Cách ly vùng bị bệnh"
+    ]
+  },
+  "Red_Rot": {
+    "description": "Thối đỏ mía là bệnh do nấm Colletotrichum falcatum gây ra, làm hư hỏng mô mành trong thân cây.",
+    "symptoms": [
+      "Thân cây xuất hiện vết đỏ hoặc nâu đỏ",
+      "Mô trong thân bị oxy hóa chuyển màu đỏ",
+      "Cây héo sớm, lá vàng",
+      "Thân cây mềm và dễ gãy",
+      "Mùi lên men hoặc mùi khó chịu từ thân"
+    ],
+    "treatment": [
+      "Xóa bỏ hoàn toàn các cây bị bệnh",
+      "Sử dụng thuốc fungicide chứa carbendazim hoặc mancozeb",
+      "Xử lý hạt giống bằng fungicide trước khi trồng",
+      "Tăng cường thoát nước để giảm độ ẩm"
+    ],
+    "prevention": [
+      "Sử dụng giống cây chống bệnh",
+      "Luân canh cây trồng",
+      "Tránh trồng cây trong đất quá ẩm",
+      "Vệ sinh dụng cụ sau khi cắt cây bị bệnh",
+      "Hạn chế tưới nước từ ngoài"
+    ]
+  },
+  "Rust": {
+    "description": "Gỉ lá mía do nấm Puccinia melanocephala gây ra, làm giảm diện tích lá thực hiện quang hợp.",
+    "symptoms": [
+      "Lá xuất hiện các đốm màu vàng cam",
+      "Dưới mặt lá có bột vàng cam (bào tử)",
+      "Các đốm mở rộng thành những vùng rộng",
+      "Lá khô cháy và rơi sớm",
+      "Cây yếu, giảm năng suất"
+    ],
+    "treatment": [
+      "Phun thuốc fungicide (sulfur, propiconazole, triadimefon)",
+      "Loại bỏ các lá bị bệnh nặng",
+      "Tăng cường thông thoáng cho cây",
+      "Phun từ 2-3 lần nếu bệnh nặng"
+    ],
+    "prevention": [
+      "Chọn giống chống bệnh",
+      "Tránh trồng quá dày",
+      "Hạn chế tưới nước lá",
+      "Vệ sinh dụng cụ nông nghiệp",
+      "Phun thuốc phòng trừ khi bệnh bắt đầu xuất hiện"
+    ]
+  },
+  "Yellow": {
+    "description": "Bệnh vàng lá mía do phytoplasma hoặc virus gây ra, làm cây yếu đi và giảm năng suất.",
+    "symptoms": [
+      "Lá bị vàng từ từ, bắt đầu từ lá già",
+      "Các lá non vẫn xanh nhưng lá cũ chuyển vàng",
+      "Thân cây có thể bị vàng",
+      "Cây dừng phát triển",
+      "Năng suất giảm đáng kể"
+    ],
+    "treatment": [
+      "Không có thuốc hóa học trực tiếp",
+      "Xóa bỏ các cây bị bệnh nặng",
+      "Kiểm soát côn trùng mang mầm bệnh",
+      "Sử dụng thuốc insecticide để kiểm soát côn trùng"
+    ],
+    "prevention": [
+      "Sử dụng giống cây chống bệnh",
+      "Kiểm soát côn trùng từ sớm",
+      "Luân canh cây trồng",
+      "Loại bỏ cỏ dại có thể là vật chủ của phytoplasma",
+      "Vệ sinh dụng cụ nông nghiệp"
+    ]
+  },
+  "Healthy": {
+    "description": "Cây khỏe mạnh, không bị bệnh, có đủ điều kiện phát triển tốt.",
+    "symptoms": [],
+    "treatment": [],
+    "prevention": [
+      "Duy trì các biện pháp phòng trừ bệnh định kỳ",
+      "Theo dõi sức khỏe cây thường xuyên",
+      "Cung cấp dinh dưỡng đầy đủ cho cây",
+      "Tưới nước hợp lý"
+    ]
+  },
+  "Bacterial_Leaf_Blight": {
+    "description": "Bệnh áo vàng vi khuẩn lúa do vi khuẩn Xanthomonas oryzae pv. oryzae gây ra, là bệnh nguy hiểm gây hại đến năng suất lúa.",
+    "symptoms": [
+      "Lá xuất hiện vết vàng hoặc xám xanh ở các mép lá",
+      "Các vết phát triển thành các đường dài dọc theo lá",
+      "Lá bị khô cháy từ mái lá trở vào",
+      "Lá bị vàng từ từ và cuộn lại",
+      "Cây bị héo, giảm chiều cao"
+    ],
+    "treatment": [
+      "Phun thuốc copper-based fungicide hoặc streptomycin",
+      "Sử dụng thuốc antibacterial như kasugamycin",
+      "Loại bỏ các cây bị bệnh nặng",
+      "Tránh tưới nước từ vùng bị bệnh"
+    ],
+    "prevention": [
+      "Sử dụng giống lúa chống bệnh",
+      "Luân canh cây trồng 2-3 năm",
+      "Tránh trồng quá dày",
+      "Duy trì độ ẩm không quá cao",
+      "Xóa bỏ cỏ dại và phần dư vật chất nông nghiệp",
+      "Kiểm soát côn trùng (châu chấu là vật mang mầm bệnh)"
+    ]
+  },
+  "Brown_Spot": {
+    "description": "Bệnh đốm nâu do nấm Bipolaris oryzae gây ra, phổ biến trong điều kiện ẩm cao.",
+    "symptoms": [
+      "Lá xuất hiện các đốm tròn có viền nâu đỏ",
+      "Giữa đốm có màu xám hoặc trắng",
+      "Các đốm nhỏ phát triển thành đốm lớn",
+      "Lá bị khô cháy",
+      "Cây yếu, hạt không lấp đầy"
+    ],
+    "treatment": [
+      "Phun thuốc fungicide mancozeb hoặc propiconazole",
+      "Sử dụng carbendazim hoặc thiram",
+      "Loại bỏ lá bị bệnh nặng",
+      "Phun từ 2-3 lần cách nhau 7-10 ngày"
+    ],
+    "prevention": [
+      "Sử dụng hạt giống sạch",
+      "Xử lý hạt bằng fungicide",
+      "Tránh trồng quá dày, tạo thông thoáng",
+      "Duy trì độ ẩm hợp lý",
+      "Làm sạch ruộng sau khi cắt lúa",
+      "Luân canh cây trồng"
+    ]
+  },
+  "Leaf_Blast": {
+    "description": "Bệnh lá cháy lúa do nấm Magnaporthe oryzae gây ra, là bệnh nguy hiểm gây hại năng suất lúa.",
+    "symptoms": [
+      "Lá xuất hiện các vết nước màu xám xanh",
+      "Vết phát triển thành những mảng hình thoi",
+      "Mép vết có viền nâu đỏ hoặc tím",
+      "Lá bị khô cháy và xác lên (tế bào chết)",
+      "Lá rơi sớm, cây bị yếu"
+    ],
+    "treatment": [
+      "Phun thuốc fungicide propiconazole, azoxystrobin, tricyclazole",
+      "Sử dụng các sản phẩm biological như Bacillus subtilis",
+      "Loại bỏ các lá bị bệnh nặng",
+      "Phun liên tục nếu bệnh lan rộng"
+    ],
+    "prevention": [
+      "Sử dụng giống lúa chống bệnh",
+      "Không trồng quá dày",
+      "Tránh sử dụng quá nhiều nitơ",
+      "Luân canh cây trồng",
+      "Duy trì thoát nước tốt",
+      "Xóa bỏ cỏ dại"
+    ]
+  },
+  "Sheath_Blight": {
+    "description": "Bệnh nấm lá giếng lúa do nấm Rhizoctonia solani gây ra, phổ biến khi cây già.",
+    "symptoms": [
+      "Vết lớn xuất hiện ở phần giữa lá giếng (sheath)",
+      "Vết có màu xám xanh với viền nâu đỏ",
+      "Vết phát triển lên trên lá và xuống dưới gốc",
+      "Lá bị héo, xác lên",
+      "Ảnh hưởng đến chất lượng hạt"
+    ],
+    "treatment": [
+      "Phun thuốc fungicide propiconazole hoặc carbendazim",
+      "Sử dụng trichoderma",
+      "Loại bỏ lá giếng bị bệnh",
+      "Tăng cường thông thoáng"
+    ],
+    "prevention": [
+      "Giảm lượng nitơ sử dụng",
+      "Tránh trồng quá dày",
+      "Duy trì thoát nước tốt",
+      "Xóa bỏ phần dư vật chất nông nghiệp",
+      "Luân canh cây trồng 2-3 năm"
+    ]
+  },
+  "Anthracnose": {
+    "description": "Bệnh than áo (Anthracnose) do nấm Colletotrichum gây ra, gây hại đến lá và quả.",
+    "symptoms": [
+      "Lá xuất hiện các đốm tròn màu nâu đen",
+      "Giữa đốm có phần sáng màu xám",
+      "Các đốm nhỏ kết hợp thành những vùng lớn",
+      "Lá bị khô cháy và rơi",
+      "Quả bị loét, không đạt chất lượng"
+    ],
+    "treatment": [
+      "Phun thuốc fungicide mancozeb, chlorothalonil, benomyl",
+      "Sử dụng copper-based fungicide",
+      "Loại bỏ lá và quả bị bệnh",
+      "Phun từ 2-3 lần trong mùa"
+    ],
+    "prevention": [
+      "Cắt tỉa cây để tăng thông thoáng",
+      "Loại bỏ lá rơi và quả bị bệnh",
+      "Tránh phun nước lên lá",
+      "Luân canh cây trồng",
+      "Vệ sinh dụng cụ nông nghiệp"
+    ]
+  },
+  "Melanose": {
+    "description": "Bệnh đốm thâm (Melanose) do nấm Diaporthe citri gây ra, gây hại chủ yếu đến quả.",
+    "symptoms": [
+      "Quả xuất hiện các đốm nhỏ nâu đen",
+      "Các đốm nhô lên trên bề mặt quả",
+      "Lá cũng bị xuất hiện những vết tương tự",
+      "Quả bị lớp vỏ xấu, không đạt tiêu chuẩn thương phẩm",
+      "Không ảnh hưởng đến vị và chất dinh dưỡng"
+    ],
+    "treatment": [
+      "Phun thuốc copper-based fungicide",
+      "Sử dụng mancozeb hoặc chlorothalonil",
+      "Phun từ 3-4 lần trong mùa",
+      "Phun từ giai đoạn quả non"
+    ],
+    "prevention": [
+      "Cắt tỉa cây để tăng thông thoáng",
+      "Loại bỏ cành chết",
+      "Duy trì độ ẩm không quá cao",
+      "Tránh tưới nước lên lá",
+      "Xóa bỏ lá rơi dưới cây"
+    ]
+  },
+  "Citrus_Canker": {
+    "description": "Bệnh loét hạch cam do vi khuẩn Xanthomonas gây ra, gây hại lá, quả và cây non.",
+    "symptoms": [
+      "Lá xuất hiện các vết lồi lõm, kích thước 2-3mm",
+      "Vết có viền vàng hoặc xám",
+      "Quả bị loét, không đạt chất lượng",
+      "Cây non bị lỏng lẻo",
+      "Có thể dẫn đến rụng lá lớn"
+    ],
+    "treatment": [
+      "Không có thuốc hóa học hiệu quả",
+      "Xóa bỏ hoàn toàn cây bị bệnh (trong một số nước)",
+      "Phun thuốc copper-based fungicide để chặn lây lan",
+      "Xóa bỏ những phần bị bệnh nặng"
+    ],
+    "prevention": [
+      "Sử dụng hạt giống và cây non sạch",
+      "Kiểm dịch cây từ ngoài vào",
+      "Vệ sinh dụng cụ nông nghiệp",
+      "Tránh cây bị thương",
+      "Xóa bỏ cỏ dại (vật chủ của vi khuẩn)",
+      "Kiểm soát côn trùng (có thể mang vi khuẩn)"
+    ]
+  },
+  "Black_Spot": {
+    "description": "Bệnh vết đen do nấm Phyllosticta citricarpa gây ra, gây hại đến chất lượng quả.",
+    "symptoms": [
+      "Quả xuất hiện các đốm tròn nâu đen",
+      "Lá cũng bị những vết tương tự",
+      "Các đốm nhô lên hoặc sâu vào bề mặt",
+      "Quả bị hạ giá thương phẩm đáng kể",
+      "Có thể dẫn đến rụng quả sớm"
+    ],
+    "treatment": [
+      "Phun thuốc copper-based fungicide",
+      "Sử dụng mancozeb hoặc propiconazole",
+      "Loại bỏ lá và quả bị bệnh",
+      "Phun liên tục từ tháng 4-8"
+    ],
+    "prevention": [
+      "Cắt tỉa cây để tăng thông thoáng",
+      "Loại bỏ lá rơi và quả bị bệnh",
+      "Tránh tưới nước lên lá",
+      "Duy trì độ ẩm không quá cao"
+    ]
+  },
+  "Greening": {
+    "description": "Bệnh vàng lá cam (Huanglongbing - HLB) do vi khuẩn Candidatus Liberibacter gây ra, bệnh nguy hiểm, không có cách chữa.",
+    "symptoms": [
+      "Lá bị vàng bất đối xứng, có những sợi xanh lục",
+      "Gân lá bị vàng đặc biệt",
+      "Quả bé hơn bình thường, vị chua đắng",
+      "Cây bị yếu, dừng phát triển",
+      "Cây chết từ từ trong 3-5 năm"
+    ],
+    "treatment": [
+      "Không có thuốc hóa học hiệu quả",
+      "Xóa bỏ cây bị bệnh để tránh lây lan (trong nhiều nước)",
+      "Kiểm soát côn trùng mang bệnh (bọ nai ơi không cánh)"
+    ],
+    "prevention": [
+      "Sử dụng cây giống sạch",
+      "Kiểm dịch cây từ ngoài vào",
+      "Kiểm soát côn trùng mang bệnh",
+      "Tránh cây bị thương",
+      "Vệ sinh dụng cụ nông nghiệp"
+    ]
+  },
+  "Black_Leaf_Spot": {
+    "description": "Bệnh vết đen/vết nâu lá do nấm Phyllosticta gây ra.",
+    "symptoms": [
+      "Lá xuất hiện các đốm tròn màu nâu đen",
+      "Giữa đốm có phần sáng màu xám",
+      "Viền đốm rõ ràng",
+      "Lá bị khô cháy, rơi sớm",
+      "Cây bị yếu"
+    ],
+    "treatment": [
+      "Phun thuốc copper-based fungicide",
+      "Sử dụng mancozeb hoặc propiconazole",
+      "Loại bỏ lá bị bệnh",
+      "Phun 2-3 lần cách nhau 2 tuần"
+    ],
+    "prevention": [
+      "Cắt tỉa cây để tăng thông thoáng",
+      "Loại bỏ lá rơi",
+      "Tránh tưới nước lên lá",
+      "Duy trì độ ẩm không quá cao"
+    ]
+  },
+  "Scab": {
+    "description": "Bệnh sẹo (Scab) do nấm gây ra, ảnh hưởng đến quả và lá.",
+    "symptoms": [
+      "Quả xuất hiện các vết sẹo, vỏ bị thô ráp",
+      "Lá cũng bị những vết tương tự",
+      "Quả bị hạ giá thị trường",
+      "Không ảnh hưởng đến vị"
+    ],
+    "treatment": [
+      "Phun thuốc sulfur",
+      "Sử dụng copper-based fungicide",
+      "Phun từ khi quả nhỏ"
+    ],
+    "prevention": [
+      "Cắt tỉa cây để tạo thông thoáng",
+      "Tránh tưới nước lên lá và quả",
+      "Vệ sinh dụng cụ"
+    ]
+  },
+  "Early_Leaf_Spot": {
+    "description": "Bệnh vết lá sớm lạc do nấm Cercospora arachidicola gây ra, gây hại chủ yếu lá trên.",
+    "symptoms": [
+      "Lá xuất hiện các đốm tròn nhỏ màu nâu xám",
+      "Giữa đốm có vệ tuyến vàng",
+      "Các đốm phát triển chính trên mặt trên lá",
+      "Lá bị khô cháy, rơi sớm",
+      "Ảnh hưởng đến năng suất và chất lượng hạt"
+    ],
+    "treatment": [
+      "Phun thuốc fungicide mancozeb, chlorothalonil, propiconazole",
+      "Loại bỏ lá bị bệnh",
+      "Phun từ 2-3 lần cách nhau 7-10 ngày",
+      "Tránh tưới nước lên lá"
+    ],
+    "prevention": [
+      "Sử dụng giống lạc chống bệnh",
+      "Luân canh cây trồng 2-3 năm",
+      "Tránh trồng quá dày",
+      "Loại bỏ lá rơi",
+      "Tránh tưới nước lên lá"
+    ]
+  },
+  "Late_Leaf_Spot": {
+    "description": "Bệnh vết lá muộn lạc do nấm Phaeoisariopsis personata gây ra, gây hại chủ yếu lá dưới.",
+    "symptoms": [
+      "Lá xuất hiện các đốm tròn nhỏ màu nâu đen",
+      "Các đốm phát triển chính trên mặt dưới lá",
+      "Viền đốm rõ ràng, màu đen",
+      "Lá bị khô cháy và rơi sớm",
+      "Năng suất giảm đáng kể"
+    ],
+    "treatment": [
+      "Phun thuốc fungicide azoxystrobin, pyraclostrobin",
+      "Sử dụng mancozeb hoặc chlorothalonil",
+      "Loại bỏ lá bị bệnh",
+      "Phun từ 3-4 lần trong mùa"
+    ],
+    "prevention": [
+      "Sử dụng giống lạc chống bệnh",
+      "Luân canh cây 3-4 năm",
+      "Tránh trồng quá dày",
+      "Cắt tỉa cây để tăng thông thoáng",
+      "Loại bỏ lá rơi từ mùa trước"
+    ]
+  },
+  "Web_Blotch": {
+    "description": "Bệnh vết lưới lạc (Web blotch) do nấm Phoma arachidicola hoặc Cercospora gây ra.",
+    "symptoms": [
+      "Lá xuất hiện các vết không đều hình lưới",
+      "Vết có màu nâu hoặc đen",
+      "Các vết phát triển thành những vùng lớn",
+      "Lá bị khô cháy, xác lên",
+      "Lá rơi sớm"
+    ],
+    "treatment": [
+      "Phun thuốc fungicide carbendazim hoặc mancozeb",
+      "Sử dụng propiconazole",
+      "Loại bỏ lá bị bệnh nặng",
+      "Phun 2-3 lần cách nhau 10 ngày"
+    ],
+    "prevention": [
+      "Sử dụng hạt giống sạch",
+      "Luân canh cây 2-3 năm",
+      "Tránh trồng quá dày",
+      "Xóa bỏ lá rơi",
+      "Tăng cường thoát nước"
+    ]
+  }
+}

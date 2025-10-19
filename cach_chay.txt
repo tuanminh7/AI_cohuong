@@ -1,0 +1,6 @@
+ 
+pip install -r requirements.txt
+
+===> chạy lệnh sau để khởi động toàn bộ chương trình
+python app.py
+ truy cập localhost:  http://127.0.0.1:5000

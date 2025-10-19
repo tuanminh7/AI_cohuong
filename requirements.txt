@@ -1,0 +1,11 @@
+# Core dependencies
+numpy
+tensorflow
+Pillow
+
+# Google Generative AI
+google-generativeai
+
+# Optional but recommended
+matplotlib
+scipy

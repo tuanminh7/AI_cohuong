@@ -1,0 +1,247 @@
+[
+  {
+    "timestamp": "2025-10-18T22:49:28.392303",
+    "disease": "Healthy Leaf",
+    "confidence": 89.87,
+    "image_path": "uploads\\Healthy_leaf00008.JPG",
+    "source": "local_model"
+  },
+  {
+    "timestamp": "2025-10-18T22:50:02.902978",
+    "disease": "Rust",
+    "confidence": 42.63,
+    "image_path": "uploads\\1539942302687_1.png",
+    "source": "local_model"
+  },
+  {
+    "timestamp": "2025-10-18T22:58:53.006380",
+    "disease": "Rust",
+    "confidence": 0.4262605309486389,
+    "image_path": "uploads\\1539942302687_1.png",
+    "source": "local_model_fallback"
+  },
+  {
+    "timestamp": "2025-10-18T23:01:54.415130",
+    "disease": "Rust",
+    "confidence": 0.4262605309486389,
+    "image_path": "uploads\\1539942302687_1.png",
+    "source": "local_model_fallback"
+  },
+  {
+    "timestamp": "2025-10-18T23:06:32.942726",
+    "disease": "Rust",
+    "confidence": 0.4262605309486389,
+    "image_path": "uploads\\1539942302687.png",
+    "source": "local_model_fallback"
+  },
+  {
+    "timestamp": "2025-10-18T23:10:23.157823",
+    "disease": "Rust",
+    "confidence": 0.4262605309486389,
+    "image_path": "uploads\\1539942302687_1.png",
+    "source": "local_model_fallback"
+  },
+  {
+    "timestamp": "2025-10-18T23:11:21.365949",
+    "disease": "Rust",
+    "confidence": 0.4287984371185303,
+    "image_path": "uploads\\z6627874552834_130028bdefe312286c57bb55d08f9475.jpg",
+    "source": "local_model_fallback"
+  },
+  {
+    "timestamp": "2025-10-18T23:12:53.109183",
+    "disease": "RedRot",
+    "confidence": 0.23228488862514496,
+    "image_path": "uploads\\z6628058254037_9c5c45ae44a8f3f8ea4de9931f01a035.jpg",
+    "source": "local_model_fallback"
+  },
+  {
+    "timestamp": "2025-10-18T23:14:22.630155",
+    "disease": "Rust",
+    "confidence": 0.4262605309486389,
+    "image_path": "uploads\\1539942302687_1.png",
+    "source": "local_model_fallback"
+  },
+  {
+    "timestamp": "2025-10-18T23:15:27.118091",
+    "disease": "Bệnh Đốm Nâu",
+    "confidence": 0.95,
+    "image_path": "uploads\\cay_3_20230313120600.jpg",
+    "source": "gemini"
+  },
+  {
+    "timestamp": "2025-10-18T23:15:34.534033",
+    "disease": "Sheath Blight",
+    "confidence": 0.8770365118980408,
+    "image_path": "uploads\\z6628063911040_9a0d1779c5feb8d9427560bdef33fc3a.jpg",
+    "source": "local_model"
+  },
+  {
+    "timestamp": "2025-10-19T13:38:02.930289",
+    "disease": "Benh dom la (chay la) tren lua",
+    "confidence": 0.85,
+    "image_path": "uploads\\z6628057939791_bee6e3023a89314defc3adc4fc4e390a.jpg",
+    "source": "gemini"
+  },
+  {
+    "timestamp": "2025-10-19T13:42:47.849881",
+    "disease": "Benh dom la lon hai lua",
+    "confidence": 0.95,
+    "image_path": "uploads\\1539942302687_1.png",
+    "source": "gemini"
+  },
+  {
+    "timestamp": "2025-10-19T13:43:05.564729",
+    "disease": "Đốm nâu hại lúa",
+    "confidence": 0.95,
+    "image_path": "uploads\\1539942302687.png",
+    "source": "gemini"
+  },
+  {
+    "timestamp": "2025-10-19T13:49:16.115392",
+    "disease": "Benh loét cam",
+    "confidence": 0.85,
+    "image_path": "uploads\\benh-ghe-lom-tren-chanh-kimnonggoldstar-vn-3.jpg",
+    "source": "gemini"
+  },
+  {
+    "timestamp": "2025-10-19T13:49:33.662697",
+    "disease": "Benh dom la",
+    "confidence": 0.85,
+    "image_path": "uploads\\ENbxS9M.jpg",
+    "source": "gemini"
+  },
+  {
+    "timestamp": "2025-10-19T13:49:56.679058",
+    "disease": "Khong xac dinh",
+    "confidence": 0.5,
+    "image_path": "uploads\\citrus-black-spot-citrus-1.jpg",
+    "source": "gemini"
+  },
+  {
+    "timestamp": "2025-10-19T13:50:10.632421",
+    "disease": "Đốm lá lạc",
+    "confidence": 0.95,
+    "image_path": "uploads\\peanutblight_1.jpg",
+    "source": "gemini"
+  },
+  {
+    "timestamp": "2025-10-19T13:51:12.883450",
+    "disease": "Rust",
+    "confidence": 0.8258609175682068,
+    "image_path": "uploads\\Benhmia03.jpg",
+    "source": "local_model"
+  },
+  {
+    "timestamp": "2025-10-19T13:51:25.092001",
+    "disease": "Benh chay la lua",
+    "confidence": 0.95,
+    "image_path": "uploads\\z6627874552834_130028bdefe312286c57bb55d08f9475.jpg",
+    "source": "gemini"
+  },
+  {
+    "timestamp": "2025-10-19T13:51:49.858183",
+    "disease": "Benh dom la lon tren lua",
+    "confidence": 0.85,
+    "image_path": "uploads\\z6628057939791_bee6e3023a89314defc3adc4fc4e390a.jpg",
+    "source": "gemini"
+  },
+  {
+    "timestamp": "2025-10-19T13:52:04.687542",
+    "disease": "Rust",
+    "confidence": 0.8258609175682068,
+    "image_path": "uploads\\Benhmia03.jpg",
+    "source": "local_model"
+  },
+  {
+    "timestamp": "2025-10-19T13:52:19.255404",
+    "disease": "Bệnh ghẻ trên cây có múi",
+    "confidence": 0.95,
+    "image_path": "uploads\\images_1.jpg",
+    "source": "gemini"
+  },
+  {
+    "timestamp": "2025-10-19T13:52:38.089367",
+    "disease": "Đốm đen lá lạc",
+    "confidence": 0.95,
+    "image_path": "uploads\\picture4.jpg",
+    "source": "gemini"
+  },
+  {
+    "timestamp": "2025-10-19T13:52:54.376022",
+    "disease": "Benh dom la lon tren ngo",
+    "confidence": 0.85,
+    "image_path": "uploads\\Thieu-kali-tren-mia-2.jpg",
+    "source": "gemini"
+  },
+  {
+    "timestamp": "2025-10-19T13:53:18.437242",
+    "disease": "Bệnh loét sẹo trên lá cam quýt",
+    "confidence": 0.9,
+    "image_path": "uploads\\benh-ghe-lom-tren-chanh-kimnonggoldstar-vn-3.jpg",
+    "source": "gemini"
+  },
+  {
+    "timestamp": "2025-10-19T13:53:41.759344",
+    "disease": "Bệnh ghẻ nhám (Citrus Scab)",
+    "confidence": 0.95,
+    "image_path": "uploads\\images_2.jpg",
+    "source": "gemini"
+  },
+  {
+    "timestamp": "2025-10-19T12:22:51.222650",
+    "disease": "Rust",
+    "confidence": 0.8258602023124695,
+    "image_path": "uploads\\Benhmia03.jpg",
+    "source": "local_model"
+  },
+  {
+    "timestamp": "2025-10-19T12:29:09.356788",
+    "disease": "Rust",
+    "confidence": 0.8258602023124695,
+    "image_path": "uploads\\Benhmia03.jpg",
+    "source": "local_model"
+  },
+  {
+    "timestamp": "2025-10-19T12:31:45.898536",
+    "disease": "Rust",
+    "confidence": 0.8258602023124695,
+    "image_path": "uploads\\Benhmia03.jpg",
+    "source": "local_model"
+  },
+  {
+    "timestamp": "2025-10-19T12:37:31.194247",
+    "disease": "Rust",
+    "confidence": 0.8258602023124695,
+    "image_path": "uploads\\Benhmia03.jpg",
+    "source": "local_model"
+  },
+  {
+    "timestamp": "2025-10-19T12:49:08.908675",
+    "disease": "Rust",
+    "confidence": 0.8258609175682068,
+    "image_path": "uploads\\Benhmia03.jpg",
+    "source": "local_model"
+  },
+  {
+    "timestamp": "2025-10-19T12:49:22.096266",
+    "disease": "Bệnh loét cam chanh",
+    "confidence": 0.9,
+    "image_path": "uploads\\benh-ghe-lom-tren-chanh-kimnonggoldstar-vn-3.jpg",
+    "source": "gemini"
+  },
+  {
+    "timestamp": "2025-10-19T12:52:20.949649",
+    "disease": "Rust",
+    "confidence": 0.8258609175682068,
+    "image_path": "uploads\\Benhmia03.jpg",
+    "source": "local_model"
+  },
+  {
+    "timestamp": "2025-10-19T12:52:33.192840",
+    "disease": "Đốm lá lạc",
+    "confidence": 0.95,
+    "image_path": "uploads\\peanutblight_1.jpg",
+    "source": "gemini"
+  }
+]
